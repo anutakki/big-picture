@@ -6,7 +6,8 @@ This is the „Big picture” theme from HTML5UP (http://html5up.net) and is ada
 To install manually, go to theme/ and do a checkout:
 git clone https://github.com/bolt/helios.git
 
-Set theme: big-picture in your app/config/config.yml, and you're good to go!
+Set theme: big-picture in your app/config/config.yml, and use the paragraphs contenttype (Example can be found in the supplied contenttypes.yml)
+and you're good to go!
 
 -------------
 
